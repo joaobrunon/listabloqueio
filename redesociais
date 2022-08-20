@@ -1,0 +1,15 @@
+# ------------------------------------[PROATEC]--------------------------------------
+# Title: LISTA DE BLQUEIO SITES EDUCAÇÃO
+# Responsável: Proatec João Bruno / Diretoria de Ensino de Limeira
+# -------------------------------------[INFO]---------------------------------------
+#
+# Bloqueio de REDES SOCIAIS
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 facebook.com
+0.0.0.0 twitter.com
+0.0.0.0 tinder.com
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 accounts.snapchat.com
