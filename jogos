@@ -1,0 +1,25 @@
+# ------------------------------------[PROATEC]--------------------------------------
+# Title: LISTA DE BLQUEIO SITES EDUCAÇÃO
+# Responsável: Proatec João Bruno / Diretoria de Ensino de Limeira
+# -------------------------------------[INFO]---------------------------------------
+#
+# Bloqueio de JOGOS
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 discord.com
+0.0.0.0 www.discord.com
+0.0.0.0 discordapp.com
+0.0.0.0 www.discordapp.com
+0.0.0.0 www.roblox.com
+0.0.0.0 roblox.com
+0.0.0.0 www.poki.com.br
+0.0.0.0 www.clickjogos.com.br
+0.0.0.0 steam.com 
+0.0.0.0 steamapps.com
+0.0.0.0 www.ojogos.com.br
+0.0.0.0 garena.com
+0.0.0.0 www.garena.com
+0.0.0.0 ff.garena.com
+0.0.0.0 freefiremobile.com
+0.0.0.0 login.common.freefiremobile.com
+0.0.0.0 epicgames.com
+0.0.0.0 www.epicgames.com
