@@ -1,0 +1,10 @@
+# ------------------------------------[PROATEC]--------------------------------------
+# Title: LISTA DE BLQUEIO SITES EDUCAÇÃO
+# Responsável: Proatec João Bruno / Diretoria de Ensino de Limeira
+# -------------------------------------[INFO]---------------------------------------
+#
+# Bloqueio de CONSULTAS DE REPOSTAS
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 www.passeidireto.com
+0.0.0.0 passeidireto.com
+0.0.0.0 brainly.com.br
